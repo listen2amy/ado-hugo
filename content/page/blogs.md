@@ -32,5 +32,5 @@ This is a list of DevOps-related blogs that we think are pretty cool.
 - [The New Dromologue](http://www.dromologue.com/)
 - [Everything Sysadmin](http://everythingsysadmin.com/)
 - [Can You DevOp With Windows?](http://stevenmurawski.com/)
-
+- [Happiest Minds Blog](http://www.happiestminds.com/blogs/category/devops/)
 > If you know of any other awesome DevOps blogs you think should be included here, please [submit a pull request](https://github.com/arresteddevops/ado-hugo/blob/master/content/page/blogs.md)!
